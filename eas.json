@@ -1,14 +1,1 @@
-{
-  "cli": {
-    "version": ">= 3.0.0"
-  },
-  "build": {
-    "preview": {
-      "distribution": "internal"
-    },
-    "production": {}
-  },
-  "submit": {
-    "production": {}
-  }
-}
+{"build": {"android": {"release": {"keystore": "your_keystore_file.jks","keystoreAlias": "your_key_alias","keystorePassword": "your_keystore_password","keyAliasPassword": "your_key_alias_password"}}}}}
