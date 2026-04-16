@@ -25,12 +25,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "..."
-      }
-    },
+    }
+    ,
     "updates": {
       "url": "https://u.expo.dev/552f0665-e30d-4f11-9ea9-97bc22a22809"
     },
